@@ -4,10 +4,10 @@ Project ini diperuntukan sebagai landasan pembelajaran dalam penggunaan fastapi 
 
 # Technology
 
-- Python3.11
-- Uvicorn
-- SqlAlchemy
-- Mysql
+- Python : 3.11
+- Uvicorn[standard] : 0.22.0
+- SqlAlchemy : 2.0.19
+- Mysql : 8.0.34
 
 # Run Local Server
 
